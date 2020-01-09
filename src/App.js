@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import SearchContainer from './sections/SearchContainer';
+import NewMessageContainer from'./sections/NewMessageContainer';
+import ConversationList from './sections/ConversationList';
+import ChatForm from './sections/ChatForm';
+import ChatTitle from './sections/ChatTitle';
+import ChatMessageList from './sections/ChatMessageList';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render(){  
+    return (
+      <div className="App">
+        <div id="chat-container">
+          <SearchContainer />
+          <NewMessageContainer />
+          <ConversationList />
+          <ChatTitle />
+          <ChatForm />
+          <ChatMessageList />
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;
