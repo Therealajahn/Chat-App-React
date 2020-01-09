@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Chat-App-React/static/css/main.7365e6e7.chunk.css",
+    "main.js": "/Chat-App-React/static/js/main.7702bfd0.chunk.js",
+    "main.js.map": "/Chat-App-React/static/js/main.7702bfd0.chunk.js.map",
+    "runtime-main.js": "/Chat-App-React/static/js/runtime-main.46b8a14c.js",
+    "runtime-main.js.map": "/Chat-App-React/static/js/runtime-main.46b8a14c.js.map",
+    "static/js/2.f4b0e810.chunk.js": "/Chat-App-React/static/js/2.f4b0e810.chunk.js",
+    "static/js/2.f4b0e810.chunk.js.map": "/Chat-App-React/static/js/2.f4b0e810.chunk.js.map",
+    "index.html": "/Chat-App-React/index.html",
+    "precache-manifest.5742b9cee3e6629f63a463b46c3132eb.js": "/Chat-App-React/precache-manifest.5742b9cee3e6629f63a463b46c3132eb.js",
+    "service-worker.js": "/Chat-App-React/service-worker.js",
+    "static/css/main.7365e6e7.chunk.css.map": "/Chat-App-React/static/css/main.7365e6e7.chunk.css.map",
+    "static/js/2.f4b0e810.chunk.js.LICENSE": "/Chat-App-React/static/js/2.f4b0e810.chunk.js.LICENSE",
+    "static/media/iconfinder_clip_115756.svg": "/Chat-App-React/static/media/iconfinder_clip_115756.22141be9.svg",
+    "static/media/App.css": "/Chat-App-React/static/media/search-svgrepo-com.6f883f5c.svg",
+    "static/media/trash-can-with-cover-from-side-view-svgrepo-com.svg": "/Chat-App-React/static/media/trash-can-with-cover-from-side-view-svgrepo-com.f6b0cd46.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b8a14c.js",
+    "static/js/2.f4b0e810.chunk.js",
+    "static/css/main.7365e6e7.chunk.css",
+    "static/js/main.7702bfd0.chunk.js"
+  ]
+}
